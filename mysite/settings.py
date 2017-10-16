@@ -25,7 +25,8 @@ SECRET_KEY = 'l_8#7$3cfyjb$3%c++n-4c*bx!^1#bi3d-p@i=gbe$vh+_r^o4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vovatur.pythonanywhere.com',
+]
 
 
 # Application definition
